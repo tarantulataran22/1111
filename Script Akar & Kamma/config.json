@@ -1,0 +1,11 @@
+{
+    "token": "Insert Token here",
+    "password": "not required",
+    "prefix": "-",
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+
+    "stream_url": "Put your channel",
+    "tts_language": "en"
+}
